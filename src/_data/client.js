@@ -4,7 +4,7 @@ module.exports = {
     "email": "Ronscycleland@aol.com",
     "phoneForTel": "918-835-8215",
     "phoneFormatted": "(918) 835-8215",
-    "address": {
+    "address": {}
         "lineOne": "7120 E Pine St",
         "lineTwo": "",
 =======
